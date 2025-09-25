@@ -1,0 +1,6 @@
+ID,RegNo,FirstName,LastName,Email,Status
+S001,2023001,John,Doe,john.doe@example.com,ACTIVE
+S002,2023002,Jane,Smith,jane.smith@example.com,ACTIVE
+S003,2023003,Robert,Johnson,robert.johnson@example.com,ACTIVE
+S004,2023004,Emily,Williams,emily.williams@example.com,ACTIVE
+S005,2023005,Michael,Brown,michael.brown@example.com,ACTIVE

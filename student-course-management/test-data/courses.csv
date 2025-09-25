@@ -1,0 +1,7 @@
+Prefix,Number,Title,Credits,Department,Semester,Active
+CS,101,Introduction to Programming,3,Computer Science,FALL,true
+CS,201,Data Structures,3,Computer Science,FALL,true
+CS,301,Algorithms,4,Computer Science,SPRING,true
+MATH,101,Calculus I,4,Mathematics,FALL,true
+MATH,201,Linear Algebra,3,Mathematics,SPRING,true
+ENG,101,Academic Writing,3,English,FALL,true
